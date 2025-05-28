@@ -1,5 +1,5 @@
 # Heart Disease Chatbot
-## created by Lydia Daids
+## by Lydia Daids
 
 
 This is a Streamlit-based chatbot powered by OpenAI + LangChain, designed to explore and analyze a heart disease dataset. This project is a work-in-progress with new features added. Ultimate goal is to incorporate more tuning to make this project more usable/interactive. This project is based on the dataset below, coming from kaggle:
